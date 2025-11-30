@@ -218,7 +218,7 @@ export const mySocials = [
   {
     name: "Linkedin",
     href: "https://fr.linkedin.com/in/julien-cauquis-w97cl218",
-    icon: "/assets/socials/linkedIn.svg",
+    icon: "/portfolio/assets/socials/linkedIn.svg",
   },
   /*{
     name: "ArtStation",
