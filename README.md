@@ -1,16 +1,56 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my second attempt at creating a portfolio to showcase some of my works.
 
-Currently, two official plugins are available:
+It's done thanks to this tutorial:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://www.youtube.com/watch?v=S9UQItTpwUQ
 
-## React Compiler
+Took me two hours and a half to set up the project / environment, and create the nav bar.
+Took me 1h45 to create the hero text and the parallax background in the hero section
+Took me 1h30 to add the astronaut model, and finish the hero section
+1H10 to create about section first two grids
+1h35 to finish the about section (adding three grids)
+1H to begin section projects
+1h20 to end section projects
+about 45mins to do the experiences section
+about 40mins for the skills section
+about 1h45 for the contact section
+about 10mins for the footer section - end of tutorial
+about 10mins ajusting navbar links
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+about 20mins to update sections order, change page title and make it dynamic
+about 20mins to add a favicon, make it dynamic
+drawing a favicon, several tries included: 1h30
+10min to add a marker on the globe and change its color
+1h15 to refine texts in hero, about, and contact sections. Plus adjust footer
+15mins footer and contact updated
+1h to update work experience section
+about 40 mins dealing with experiences section
+1h45 spent working on work experiences, skills, about section
+1h20 working on adding pages, make it work with sections across pages
+2h10 working on navigation bar for small screens, handling blur effects and user inputs + privacy
+2h20 working on project, project details and so on. Sticky position is tricky...
+1h to handle the scroll to top when changing page, and twicking project preview image position
+5h12 to update a lot of stuff... a problem with the dragable elements, related to containers + updated logos everywhere + pitch projects
+3h15 to finish, plus trying to deploy
+1h30 to try to deploy a fresh new app, and learn a few things about github pages deployment
 
-## Expanding the ESLint configuration
+Soooo
+trying to deploy, nothing was working. Like no image, nothing displayed...
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+try to start a fresh repo, with the react + vite template deployed using this video :
+
+https://www.youtube.com/watch?v=uXiwgO_p0Yg
+
+it works.
+
+then, I'm recreating the portfolio I've made inside this new repo, iterating over every single bug I'm seeing.
+
+first, I changed browser router by hash something router following this : https://longnguyenengineer.medium.com/browserrouter-vs-hashrouter-in-react-which-one-should-you-use-and-why-96e33e8d8ec1
+
+because a comment under this video : https://www.youtube.com/watch?v=hn1IkJk24ow stated that browser router wasn't working with github pages.
+
+Then, I updated images path according to : https://forum.freecodecamp.org/t/images-not-loading-in-vite-react-app-on-github/679499/2
+
+like, when the base is updated in the vite.config file, the images path need to be updated accordingly...
