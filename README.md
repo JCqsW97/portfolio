@@ -54,3 +54,5 @@ because a comment under this video : https://www.youtube.com/watch?v=hn1IkJk24ow
 Then, I updated images path according to : https://forum.freecodecamp.org/t/images-not-loading-in-vite-react-app-on-github/679499/2
 
 like, when the base is updated in the vite.config file, the images path need to be updated accordingly...
+
+2h15 spent recreating navbar and herosection, looks like the main problem was due to the incorrect naming path for all my images... plus the deployment solution that wasn't the good one.
