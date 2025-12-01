@@ -58,7 +58,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
 
 <table align="center">
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Task
         </td>
         <td align="center" width="96">
@@ -66,7 +66,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Setting up project, Create Navbar
         </td>
         <td align="center" width="96">
@@ -74,7 +74,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Herotext and Parallax Background in Hero section
         </td>
         <td align="center" width="96">
@@ -82,7 +82,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Astronaut and finishing the Hero section
         </td>
         <td align="center" width="96">
@@ -90,7 +90,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         First two grids of About section
         </td>
         <td align="center" width="96">
@@ -98,7 +98,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Last three grids of About section
         </td>
         <td align="center" width="96">
@@ -106,7 +106,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Begining the Projects section
         </td>
         <td align="center" width="96">
@@ -114,7 +114,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Ending the Projects section
         </td>
         <td align="center" width="96">
@@ -122,7 +122,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Building the Experiences section
         </td>
         <td align="center" width="96">
@@ -130,7 +130,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Building the Skills section
         </td>
         <td align="center" width="96">
@@ -138,7 +138,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Building the Contact section
         </td>
         <td align="center" width="96">
@@ -146,7 +146,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Building the Footer section - end of the Tutorial 🎉
         </td>
         <td align="center" width="96">
@@ -154,15 +154,15 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Adjusting Navbar links
         </td>
-        <td align="center" width="96">
+        <td align="center" width="496">
         10mins
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating section order + Dynamic page title
         </td>
         <td align="center" width="96">
@@ -170,7 +170,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Adding a dynamic favicon
         </td>
         <td align="center" width="96">
@@ -178,7 +178,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Drawing a (first) favicon
         </td>
         <td align="center" width="96">
@@ -186,7 +186,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Adding a Paris marker on the globe with custom color
         </td>
         <td align="center" width="96">
@@ -194,7 +194,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating texts in Hero, About, Contact, Footer sections
         </td>
         <td align="center" width="96">
@@ -202,7 +202,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating Contact, Footer sections
         </td>
         <td align="center" width="96">
@@ -210,7 +210,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating Experience section
         </td>
         <td align="center" width="96">
@@ -218,7 +218,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating Experience section
         </td>
         <td align="center" width="96">
@@ -226,7 +226,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Refining Experience, Skills, About sections
         </td>
         <td align="center" width="96">
@@ -234,7 +234,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Adding pages and router
         </td>
         <td align="center" width="96">
@@ -242,7 +242,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating Navbar for small screens + Privacy page
         </td>
         <td align="center" width="96">
@@ -250,7 +250,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating Project section and details
         </td>
         <td align="center" width="96">
@@ -258,7 +258,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating Scroll to top and project preview images
         </td>
         <td align="center" width="96">
@@ -266,7 +266,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating logos everywhere + dealing with dragable elements
         </td>
         <td align="center" width="96">
@@ -274,7 +274,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Updating pictures + first deploy attempt
         </td>
         <td align="center" width="96">
@@ -282,7 +282,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Learning about github pages deployment
         </td>
         <td align="center" width="96">
@@ -290,7 +290,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Deploying the first sections in a fresh repo
         </td>
         <td align="center" width="96">
@@ -298,7 +298,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Building site -> successful deployment!! 🎉🎉🎉
         </td>
         <td align="center" width="96">
@@ -306,7 +306,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Drawing a new favicon
         </td>
         <td align="center" width="96">
@@ -314,7 +314,7 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         </td>
     </tr>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="496">
         Writing a cool Readme file
         </td>
         <td align="center" width="96">
