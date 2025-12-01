@@ -1,6 +1,7 @@
 import Hero from "../sections/Hero";
 import About from "../sections/About";
 import Experiences from "../sections/Experiences";
+import Skills from "../sections/Skills";
 import Projects from "../sections/Projects";
 
 function HomePage() {
@@ -10,6 +11,7 @@ function HomePage() {
         <Hero />
         <About />
         <Experiences />
+        <Skills />
         <Projects />
     </div>
   )
