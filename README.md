@@ -1,3 +1,9 @@
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=7b4397&text=My%20Portfolio&section=header&fontColor=FFFFFF)
+
+</div>
+
 # Personal Portfolio
 
 This is my second attempt at creating a portfolio to showcase some of my works.
