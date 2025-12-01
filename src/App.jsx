@@ -5,8 +5,13 @@ import { Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import PrivacyPage from "./pages/PrivacyPage";
 
+import ScrollToTop from "./components/ScrollToTop";
+
+import usePageVisibility from "./components/UsePageVisibility";
+
 const App = () => {
 
+  usePageVisibility();
 
   return (
   <div className="container mx-auto max-w-7xl flex flex-col min-h-screen">
@@ -20,6 +25,7 @@ const App = () => {
     <div className="">
       <Footer />
     </div>
+    <ScrollToTop />
   </div>
   );
 };
