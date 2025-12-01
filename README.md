@@ -56,3 +56,6 @@ Then, I updated images path according to : https://forum.freecodecamp.org/t/imag
 like, when the base is updated in the vite.config file, the images path need to be updated accordingly...
 
 2h15 spent recreating navbar and herosection, looks like the main problem was due to the incorrect naming path for all my images... plus the deployment solution that wasn't the good one.
+
+1h30 of copy pasting, changing image paths, and it's deployed!!!
+30mins playing with favicons
