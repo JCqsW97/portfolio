@@ -2,7 +2,63 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=7b4397&text=My%20Portfolio&section=header&fontColor=FFFFFF)
 
+<p align="center">My personal portfolio showcasing professional experience, projects, and skills. Built with Vite, React, Node.js, and JavaScript. Featuring dynamic content and interactions 🌟</p>
+
 </div>
+
+# 🚀 Demo
+
+Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https://jcqsw97.github.io/portfolio/)
+
+# 📸 Screenshots
+
+⚠️ To be updated ⚠️
+
+# ⚙️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+# ⚡ Core Features
+
+- 📲 Responsive Design
+  - Built with mobiles in mind
+  - Touch-friendly components for intuitive interaction
+  - Adaptive layouts that seamlessly adjust to screen sizes
+
+- 🎯 Dynamic and Engaging Content
+  - Real-life project showcase
+  - Interactive sections encouraging user engagement and exploration
+  - Smooth transitions and micro-interactions to enhance user experience
+
+- 🎨 Modern and User-Centric UI/UX
+  - Elegant animations with a polished look 
+  - Intuitive navigation structure for effortless browsing
+  - Minimalist, clean design that prioritizes content clarity
+
+# 📜 License
+
+<div align="center">
+
+MIT License © [Julien Cauquis](LICENSE)
 
 # Personal Portfolio
 
@@ -65,3 +121,14 @@ like, when the base is updated in the vite.config file, the images path need to 
 
 1h30 of copy pasting, changing image paths, and it's deployed!!!
 30mins playing with favicons
+
+# Acknowledgment
+
+Some icons are from:
+- [https://devicon.dev/](https://devicon.dev/)
+
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=150&color=7b4397&section=footer&fontColor=FFFFFF)
+
+</div>
