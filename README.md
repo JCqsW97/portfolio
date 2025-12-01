@@ -318,10 +318,20 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
         Writing a cool Readme file
         </td>
         <td align="center" width="96">
-        ...
+        1h30
         </td>
     </tr>
-    
+</table>
+
+<table align="center">
+    <tr>
+        <td align="center" width="496">
+        Total Time
+        </td>
+        <td align="center" width="96">
+        around 42h30 if I'm not miscalculating this
+        </td>
+    </tr>
 </table>
 
 # 🙏 Acknowledgment
@@ -347,6 +357,9 @@ To route:
 
 To fix images:
 - [https://forum.freecodecamp.org/t/images-not-loading-in-vite-react-app-on-github/679499/2](https://forum.freecodecamp.org/t/images-not-loading-in-vite-react-app-on-github/679499/2)
+
+To write a Readme:
+- [https://github.com/lohitkolluri/Portfolio/blob/main/README.md](https://github.com/lohitkolluri/Portfolio/blob/main/README.md)
 
 # 📜 License
 
