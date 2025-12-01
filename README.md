@@ -54,78 +54,307 @@ Experience this portfolio live at: [https://jcqsw97.github.io/portfolio/](https:
   - Intuitive navigation structure for effortless browsing
   - Minimalist, clean design that prioritizes content clarity
 
+# 🕑 Tracking Time
+
+<table align="center">
+    <tr>
+        <td align="center" width="96">
+        Task
+        </td>
+        <td align="center" width="96">
+        Time Spent
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Setting up project, Create Navbar
+        </td>
+        <td align="center" width="96">
+        2h30
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Herotext and Parallax Background in Hero section
+        </td>
+        <td align="center" width="96">
+        1h45
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Astronaut and finishing the Hero section
+        </td>
+        <td align="center" width="96">
+        1h30
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        First two grids of About section
+        </td>
+        <td align="center" width="96">
+        1h10
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Last three grids of About section
+        </td>
+        <td align="center" width="96">
+        1h35
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Begining the Projects section
+        </td>
+        <td align="center" width="96">
+        1h
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Ending the Projects section
+        </td>
+        <td align="center" width="96">
+        1h20
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Building the Experiences section
+        </td>
+        <td align="center" width="96">
+        45mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Building the Skills section
+        </td>
+        <td align="center" width="96">
+        40mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Building the Contact section
+        </td>
+        <td align="center" width="96">
+        1h45
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Building the Footer section - end of the Tutorial 🎉
+        </td>
+        <td align="center" width="96">
+        10mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Adjusting Navbar links
+        </td>
+        <td align="center" width="96">
+        10mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating section order + Dynamic page title
+        </td>
+        <td align="center" width="96">
+        20mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Adding a dynamic favicon
+        </td>
+        <td align="center" width="96">
+        20mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Drawing a (first) favicon
+        </td>
+        <td align="center" width="96">
+        1h30
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Adding a Paris marker on the globe with custom color
+        </td>
+        <td align="center" width="96">
+        10mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating texts in Hero, About, Contact, Footer sections
+        </td>
+        <td align="center" width="96">
+        1h15
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating Contact, Footer sections
+        </td>
+        <td align="center" width="96">
+        15mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating Experience section
+        </td>
+        <td align="center" width="96">
+        1h
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating Experience section
+        </td>
+        <td align="center" width="96">
+        40mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Refining Experience, Skills, About sections
+        </td>
+        <td align="center" width="96">
+        1h45
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Adding pages and router
+        </td>
+        <td align="center" width="96">
+        1h20
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating Navbar for small screens + Privacy page
+        </td>
+        <td align="center" width="96">
+        2h10
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating Project section and details
+        </td>
+        <td align="center" width="96">
+        2h20
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating Scroll to top and project preview images
+        </td>
+        <td align="center" width="96">
+        1h
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating logos everywhere + dealing with dragable elements
+        </td>
+        <td align="center" width="96">
+        5h15
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Updating pictures + first deploy attempt
+        </td>
+        <td align="center" width="96">
+        1h15
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Learning about github pages deployment
+        </td>
+        <td align="center" width="96">
+        1h30
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Deploying the first sections in a fresh repo
+        </td>
+        <td align="center" width="96">
+        2h15
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Building site -> successful deployment!! 🎉🎉🎉
+        </td>
+        <td align="center" width="96">
+        1h30
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Drawing a new favicon
+        </td>
+        <td align="center" width="96">
+        30mins
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+        Writing a cool Readme file
+        </td>
+        <td align="center" width="96">
+        ...
+        </td>
+    </tr>
+    
+</table>
+
+# 🙏 Acknowledgment
+
+This portfolio was built following this tutorial: https://www.youtube.com/watch?v=S9UQItTpwUQ
+
+UI elements are from:
+- [https://magicui.design/](https://magicui.design/)
+- [https://ui.aceternity.com/components](https://ui.aceternity.com/components)
+
+Some icons are from:
+- [https://devicon.dev/](https://devicon.dev/)
+- [https://www.svgrepo.com/](https://www.svgrepo.com/)
+
+These resources were helpful:
+
+To deploy:
+- [https://www.youtube.com/watch?v=uXiwgO_p0Yg](https://www.youtube.com/watch?v=uXiwgO_p0Yg)
+
+To route:
+- [https://www.youtube.com/watch?v=hn1IkJk24ow](https://www.youtube.com/watch?v=hn1IkJk24ow)
+- [https://longnguyenengineer.medium.com/browserrouter-vs-hashrouter-in-react-which-one-should-you-use-and-why-96e33e8d8ec1](https://longnguyenengineer.medium.com/browserrouter-vs-hashrouter-in-react-which-one-should-you-use-and-why-96e33e8d8ec1)
+
+To fix images:
+- [https://forum.freecodecamp.org/t/images-not-loading-in-vite-react-app-on-github/679499/2](https://forum.freecodecamp.org/t/images-not-loading-in-vite-react-app-on-github/679499/2)
+
 # 📜 License
 
 <div align="center">
 
 MIT License © [Julien Cauquis](LICENSE)
 
-# Personal Portfolio
-
-This is my second attempt at creating a portfolio to showcase some of my works.
-
-It's done thanks to this tutorial:
-
-https://www.youtube.com/watch?v=S9UQItTpwUQ
-
-Took me two hours and a half to set up the project / environment, and create the nav bar.
-Took me 1h45 to create the hero text and the parallax background in the hero section
-Took me 1h30 to add the astronaut model, and finish the hero section
-1H10 to create about section first two grids
-1h35 to finish the about section (adding three grids)
-1H to begin section projects
-1h20 to end section projects
-about 45mins to do the experiences section
-about 40mins for the skills section
-about 1h45 for the contact section
-about 10mins for the footer section - end of tutorial
-about 10mins ajusting navbar links
-
-about 20mins to update sections order, change page title and make it dynamic
-about 20mins to add a favicon, make it dynamic
-drawing a favicon, several tries included: 1h30
-10min to add a marker on the globe and change its color
-1h15 to refine texts in hero, about, and contact sections. Plus adjust footer
-15mins footer and contact updated
-1h to update work experience section
-about 40 mins dealing with experiences section
-1h45 spent working on work experiences, skills, about section
-1h20 working on adding pages, make it work with sections across pages
-2h10 working on navigation bar for small screens, handling blur effects and user inputs + privacy
-2h20 working on project, project details and so on. Sticky position is tricky...
-1h to handle the scroll to top when changing page, and twicking project preview image position
-5h12 to update a lot of stuff... a problem with the dragable elements, related to containers + updated logos everywhere + pitch projects
-3h15 to finish, plus trying to deploy
-1h30 to try to deploy a fresh new app, and learn a few things about github pages deployment
-
-Soooo
-trying to deploy, nothing was working. Like no image, nothing displayed...
-
-try to start a fresh repo, with the react + vite template deployed using this video :
-
-https://www.youtube.com/watch?v=uXiwgO_p0Yg
-
-it works.
-
-then, I'm recreating the portfolio I've made inside this new repo, iterating over every single bug I'm seeing.
-
-first, I changed browser router by hash something router following this : https://longnguyenengineer.medium.com/browserrouter-vs-hashrouter-in-react-which-one-should-you-use-and-why-96e33e8d8ec1
-
-because a comment under this video : https://www.youtube.com/watch?v=hn1IkJk24ow stated that browser router wasn't working with github pages.
-
-Then, I updated images path according to : https://forum.freecodecamp.org/t/images-not-loading-in-vite-react-app-on-github/679499/2
-
-like, when the base is updated in the vite.config file, the images path need to be updated accordingly...
-
-2h15 spent recreating navbar and herosection, looks like the main problem was due to the incorrect naming path for all my images... plus the deployment solution that wasn't the good one.
-
-1h30 of copy pasting, changing image paths, and it's deployed!!!
-30mins playing with favicons
-
-# Acknowledgment
-
-Some icons are from:
-- [https://devicon.dev/](https://devicon.dev/)
+</div>
 
 <div align="center">
 
