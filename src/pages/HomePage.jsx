@@ -3,6 +3,7 @@ import About from "../sections/About";
 import Experiences from "../sections/Experiences";
 import Skills from "../sections/Skills";
 import Projects from "../sections/Projects";
+import Contact from "../sections/Contact";
 
 function HomePage() {
   return (
@@ -13,6 +14,7 @@ function HomePage() {
         <Experiences />
         <Skills />
         <Projects />
+        <Contact />
     </div>
   )
 };
