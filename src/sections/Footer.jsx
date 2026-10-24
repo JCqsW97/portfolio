@@ -16,7 +16,7 @@ const Footer = () => {
                 ))}
             </div>
             <div className="gap-2 w-[30%] text-right">
-                <p>© 2025 Julien Cauquis. All rights reserved.</p>
+                <p>© 2026 Julien Cauquis. All rights reserved.</p>
             </div>
         </section>
     );

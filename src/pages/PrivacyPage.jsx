@@ -9,8 +9,7 @@ const PrivacyPage = () => {
                 <h2 >1. Éditeur du site</h2>
                 <p>
                     Julien Cauquis <br />
-                    31 rue Roger Glotin <br />
-                    44000 Nantes <br />
+                    95000 Cergy <br />
                     France <br />
                     Téléphone : +33 (0) 7 82 51 92 82 <br />
                     Email : <a href="mailto:julien.cauquis@gmail.com">julien[dot]cauquis[at]gmail[dot]com</a>
@@ -18,6 +17,7 @@ const PrivacyPage = () => {
                 <h2>2. Directeur de la publication</h2>
                 <p>Julien Cauquis</p>
                 <h2>3. Hébergeur du site</h2>
+                <p>(last verified: 29/11/2025)</p>
                 <p>
                     GitHub, Inc. <br />
                     88 Colin P Kelly Jr St <br />
@@ -46,7 +46,7 @@ const PrivacyPage = () => {
                 </p>
             </div>
             <div className="absolute bottom-0">
-                <p>Dernière mise à jour du site : 29 Novembre 2025</p>
+                <p>Dernière mise à jour du site : 24 Octobre 2026</p>
             </div>
         </section>
   );
